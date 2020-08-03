@@ -1,6 +1,6 @@
 {
   "name": "envis10n-tsinit",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A CLI tool for generating a TypeScript project folder",
   "main": "build/index.js",
   "repository": "https://github.com/envis10n/tsinit",
